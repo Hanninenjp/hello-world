@@ -1,1 +1,1 @@
-# A basic "Hello World" example in C#
+# A basic "Hello World" example
